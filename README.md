@@ -1,4 +1,4 @@
-# ALPHAMIX - Alphabet Letters Phonetic Harmonizer and Mixer
+# alphamix - Alphabet Letters Phonetic Harmonizer and Mixer
 > Generate unique and customizable audio files that mimic dialogue sounds
 
 This tool generates unique and customizable audio files that mimic dialogue sounds found in
