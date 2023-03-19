@@ -14,20 +14,20 @@ easy to identify and reuse different combinations of settings.
 
 * Generates alphabet audio files with Google Text-to-Speech (TTS)
 * Applies modifications to alphabet audio files:
-** Pitch shift
-** Reverse audio
-** Playback speed modification
+  ** Pitch shift
+  ** Reverse audio
+  ** Playback speed modification
 * Creates a combined audio file from a user-defined string with the following features:
-** Uses short and long versions of the alphabet letters
-** Applies fade-in and fade-out effects to reduce clicking
+  ** Uses short and long versions of the alphabet letters
+  ** Applies fade-in and fade-out effects to reduce clicking
 * Supports user-defined values for the following arguments:
-** User-defined string of words
-** Pitch shift in cents (100 cents = 1 semitone)
-** Playback speed (1.0 for normal, > 1 for faster, < 1 for slower)
-** Whether to reverse the audio
-** Crossfade duration in milliseconds
-** Duration of fade-in and fade-out in milliseconds
-** Number of letters to use for the short and long versions of the alphabet letters
+  ** User-defined string of words
+  ** Pitch shift in cents (100 cents = 1 semitone)
+  ** Playback speed (1.0 for normal, > 1 for faster, < 1 for slower)
+  ** Whether to reverse the audio
+  ** Crossfade duration in milliseconds
+  ** Duration of fade-in and fade-out in milliseconds
+  ** Number of letters to use for the short and long versions of the alphabet letters
 * Saves the combined audio file as a .wav file with the user-defined argument values in the filename
 
 ## Installing / Getting started
